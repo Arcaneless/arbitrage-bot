@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "An arbitrage bot that detects arbitrage opportunities between pancake and bakery swaps and manages flash swap calls",
   "main": "index.js",
-  "author": "Johnson Ogwuru <ogwurujohnson@gmail.com>",
+  "author": "Marcus Cheung <moddcheung88819@protonmail.com>",
   "scripts": {
     "start": "tsc && node dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
